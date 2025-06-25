@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./typovrak-banner-desktop-border-radius-gh-min.png" alt="Typovrak banner" height="170" style="max-width: 495px;">
+  <img src="./typovrak-banner-desktop-border-radius-gh-min.png" alt="Typovrak banner" width="495px">
 </div>
 
 <br>
