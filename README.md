@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="./typovrak-banner-desktop-border-radius-gh-min.png" alt="Typovrak banner" width="495px">
+  <img src="./typovrak-banner-hobbies-min.png" alt="Typovrak banner">
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
