@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./typovrak-banner-hobbies-min.png" alt="Typovrak banner">
+  <img src="./typovrak-banner-hobbies-radius-min.png" alt="Typovrak banner">
 </div>
 
 <div align="center">
