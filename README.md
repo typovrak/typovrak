@@ -20,7 +20,7 @@
   <!-- <a href="https://x.com/typovrak"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siX&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak's X account"/></a> -->
 </div>
 
-# <p align="center">🛠 5 tools I trust</p>
+# <p align="center">🛠 4 tools I trust</p>
 
 <div align="center">
   <a href="https://mscholz.dev"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Langage+de+%3C3&size=square&rounded=24" alt="Golang, my favorite language"/></a>
