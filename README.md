@@ -13,18 +13,18 @@
 <!-- Cards: https://bentos.jkominovic.dev/ -->
 
 <div align="center">
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubsponsors&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak GitHub Sponsors"/></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak YouTube channel"/></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Communaut%C3%A9&size=square&rounded=24" alt="Typovrak Discord server"/></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siMalt&subtitle=Morgan+SCHOLZ&size=square&rounded=24" alt="Morgan SCHOLZ's Malt profile"/></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siX&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak's X account"/></a>
+  <a href="https://github.com/sponsors/typovrak"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithubsponsors&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak GitHub Sponsors"/></a>
+  <a href="https://typovrak.tv/youtube"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak YouTube channel"/></a>
+  <a href="https://typovrak.tv/discord"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Communaut%C3%A9&size=square&rounded=24" alt="Typovrak Discord server"/></a>
+  <a href="https://typovrak.tv/malt"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siMalt&subtitle=Morgan+SCHOLZ&size=square&rounded=24" alt="Morgan SCHOLZ's Malt profile"/></a>
+  <!-- <a href="https://x.com/typovrak"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siX&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak's X account"/></a> -->
 </div>
 
 # <p align="center">🛠 5 tools I trust</p>
 
 <div align="center">
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Langage+de+%3C3&size=square&rounded=24" alt="Golang, my favorite language"/></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siJavascript&subtitle=5+ans+d%27XP&size=square&rounded=24" alt="5 years of experience in Javascript, Typescript and Node.js"/></a>
+  <!-- <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siJavascript&subtitle=5+ans+d%27XP&size=square&rounded=24" alt="5 years of experience in Javascript, Typescript and Node.js"/></a> -->
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDocker&subtitle=Automatisation&size=square&rounded=24" alt="Automatisation with Docker"/></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNixos&subtitle=Mon+OS+de+<3&size=square&rounded=24" alt="My favorite OS, NixOS"/></a>
   <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Mon+IDE+de+<3&size=square&rounded=24" alt="My favorite IDE, Neovim"/></a>
