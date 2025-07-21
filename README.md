@@ -23,9 +23,9 @@
 # <p align="center">🛠 5 tools I trust</p>
 
 <div align="center">
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Langage+de+%3C3&size=square&rounded=24" alt="Golang, my favorite language"/></a>
-  <!-- <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siJavascript&subtitle=5+ans+d%27XP&size=square&rounded=24" alt="5 years of experience in Javascript, Typescript and Node.js"/></a> -->
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDocker&subtitle=Automatisation&size=square&rounded=24" alt="Automatisation with Docker"/></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNixos&subtitle=Mon+OS+de+<3&size=square&rounded=24" alt="My favorite OS, NixOS"/></a>
-  <a href="#"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Mon+IDE+de+<3&size=square&rounded=24" alt="My favorite IDE, Neovim"/></a>
+  <a href="https://mscholz.dev"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Langage+de+%3C3&size=square&rounded=24" alt="Golang, my favorite language"/></a>
+  <!-- <a href="https://mscholz.dev"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siJavascript&subtitle=5+ans+d%27XP&size=square&rounded=24" alt="5 years of experience in Javascript, Typescript and Node.js"/></a> -->
+  <a href="https://mscholz.dev"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDocker&subtitle=Automatisation&size=square&rounded=24" alt="Automatisation with Docker"/></a>
+  <a href="https://mscholz.dev"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNixos&subtitle=Mon+OS+de+<3&size=square&rounded=24" alt="My favorite OS, NixOS"/></a>
+  <a href="https://mscholz.dev"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Mon+IDE+de+<3&size=square&rounded=24" alt="My favorite IDE, Neovim"/></a>
 </div>
