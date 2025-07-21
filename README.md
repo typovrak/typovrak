@@ -30,7 +30,7 @@
   <a href="https://mscholz.dev"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNeovim&subtitle=Mon+IDE+de+<3&size=square&rounded=24" alt="My favorite IDE, Neovim"/></a>
 </div>
 
-# <p align="center">🫶 Supporters who make this possible</p>
+# <p align="center">🔥 Supporters who make this possible</p>
 
 <div align="center">
   <a href="https://buymeacoffee.com/typovrak"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siBuymeacoffee&subtitle=Achraf&size=square&rounded=24" alt="My first supporter, Achraf"/></a>
