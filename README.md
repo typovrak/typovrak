@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./typovrak-banner-hobbies-radius-min.png" alt="Typovrak banner"/>
+  <a href="https://typovrak.tv/youtube"><img src="./typovrak-banner-hobbies-radius-min.png" alt="Typovrak banner"/></a>
 </div>
 
 # <p align="center">💜 I'm a minimalist developer who types fast</p>
