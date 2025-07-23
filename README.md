@@ -54,6 +54,16 @@
         <td>[ARCH] Connexion au Wi-Fi avec la LIGNE DE COMMANDE</td>
         <td><a href="https://www.youtube.com/watch?v=VS-3bpBlONg">Lien YouTube</a></td>
       </tr>
+      <tr>
+        <td>4</td>
+        <td>🎒 Tutoriel installation pas à pas des NVIDIA Drivers sous ARCH LINUX + I3WM 📚</td>
+        <td><a href="https://www.youtube.com/watch?v=54Z8nWC6d3w">Lien YouTube</a></td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Arch Linux i3 + double écran = ❤️‍🔥 (merci xrandr)</td>
+        <td><a href="https://www.youtube.com/watch?v=VtSbprBbr3I">Lien YouTube</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
