@@ -42,27 +42,136 @@
       <tr>
         <td>1</td>
         <td>🐙 GitHub CLI : Créer un repo depuis son terminal Linux (facile & rapide) 🔥</td>
-        <td><a href="https://www.youtube.com/watch?v=2SzUB51oNmM">Lien YouTube</a></td>
+        <td><a href="https://www.youtube.com/watch?v=2SzUB51oNmM">Vidéo YouTube</a></td>
       </tr>
       <tr>
         <td>2</td>
         <td>Issues + PRs + Rebase GitHub = 100% dans le terminal ? C'est possible avec GIT + GH 💪</td>
-        <td><a href="https://www.youtube.com/watch?v=283uyisTOXk">Lien YouTube</a></td>
+        <td><a href="https://www.youtube.com/watch?v=283uyisTOXk">Vidéo YouTube</a></td>
       </tr>
       <tr>
         <td>3</td>
         <td>[ARCH] Connexion au Wi-Fi avec la LIGNE DE COMMANDE</td>
-        <td><a href="https://www.youtube.com/watch?v=VS-3bpBlONg">Lien YouTube</a></td>
+        <td><a href="https://www.youtube.com/watch?v=VS-3bpBlONg">Vidéo YouTube</a></td>
       </tr>
       <tr>
         <td>4</td>
         <td>🎒 Tutoriel installation pas à pas des NVIDIA Drivers sous ARCH LINUX + I3WM 📚</td>
-        <td><a href="https://www.youtube.com/watch?v=54Z8nWC6d3w">Lien YouTube</a></td>
+        <td><a href="https://www.youtube.com/watch?v=54Z8nWC6d3w">Vidéo YouTube</a></td>
       </tr>
       <tr>
         <td>5</td>
         <td>Arch Linux i3 + double écran = ❤️‍🔥 (merci xrandr)</td>
-        <td><a href="https://www.youtube.com/watch?v=VtSbprBbr3I">Lien YouTube</a></td>
+        <td><a href="https://www.youtube.com/watch?v=VtSbprBbr3I">Vidéo YouTube</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+# <p align="center">🧠 Maitriser les commandes Linux en moins de 3 minutes ?</p>
+
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>🔥 MAN (manual) en ligne de commande Linux bash 💻</td>
+        <td><a href="https://www.youtube.com/shorts/TRSXEJNZbqA">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
       </tr>
     </tbody>
   </table>
