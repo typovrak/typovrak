@@ -17,7 +17,6 @@
   <a href="https://typovrak.tv/youtube"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siYoutube&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak YouTube channel"/></a>
   <a href="https://typovrak.tv/discord"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Communaut%C3%A9&size=square&rounded=24" alt="Typovrak Discord server"/></a>
   <a href="https://typovrak.tv/malt"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siMalt&subtitle=Morgan+SCHOLZ&size=square&rounded=24" alt="Morgan SCHOLZ's Malt profile"/></a>
-  <!-- <a href="https://x.com/typovrak"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siX&subtitle=Typovrak&size=square&rounded=24" alt="Typovrak's X account"/></a> -->
 </div>
 
 # <p align="center">🛠 My 4 daily drivers</p>
