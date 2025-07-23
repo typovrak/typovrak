@@ -68,7 +68,7 @@
   </table>
 </div>
 
-# <p align="center">🧠 Maitriser les commandes Linux en moins de 3 minutes ?</p>
+# <p align="center">⚙️ Maîtriser Linux, une commande à la fois</p>
 
 <div align="center">
   <table>
@@ -170,6 +170,131 @@
       </tr>
       <tr>
         <td>20</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>23</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>25</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>26</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>27</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>28</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>29</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>30</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>31</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>32</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>33</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>34</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>35</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>36</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>37</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>38</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>39</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>40</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>41</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>42</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>43</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>44</td>
+        <td></td>
+        <td><a href="">Short YouTube</a></td>
+      </tr>
+      <tr>
+        <td>45</td>
         <td></td>
         <td><a href="">Short YouTube</a></td>
       </tr>
