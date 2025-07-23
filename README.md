@@ -35,3 +35,27 @@
 <div align="center">
   <a href="https://buymeacoffee.com/typovrak"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siBuymeacoffee&subtitle=Achraf&size=square&rounded=24" alt="My first supporter, Achraf"/></a>
 </div>
+
+# <p align="center">💡 Découvrir le monde du terminal ?</p>
+
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>🐙 GitHub CLI : Créer un repo depuis son terminal Linux (facile & rapide) 🔥</td>
+        <td><a href="https://www.youtube.com/watch?v=2SzUB51oNmM">Lien YouTube</a></td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Issues + PRs + Rebase GitHub = 100% dans le terminal ? C'est possible avec GIT + GH 💪</td>
+        <td><a href="https://www.youtube.com/watch?v=283uyisTOXk">Lien YouTube</a></td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>[ARCH] Connexion au Wi-Fi avec la LIGNE DE COMMANDE</td>
+        <td><a href="https://www.youtube.com/watch?v=VS-3bpBlONg">Lien YouTube</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
