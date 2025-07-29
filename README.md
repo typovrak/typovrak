@@ -4,7 +4,8 @@
 
 # <p align="center">💜 I'm a minimalist developer who types fast</p>
 
-<!-- Streak card: <div align="center">
+<!-- recruit me 
+Streak card: <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=typovrak&theme=catppuccin-mocha&hide_border=false&border_radius=10" alt="Typovrak GitHub Streak">
   </a>
