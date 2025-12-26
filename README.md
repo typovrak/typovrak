@@ -19,7 +19,7 @@
   <a href="https://typovrak.tv/malt"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siMalt&subtitle=Morgan+SCHOLZ&size=square&rounded=24" alt="Morgan SCHOLZ's Malt profile"/></a>
 </div> -->
 
-# <p align="center">🛠 My 4 daily drivers</p>
+<!-- # <p align="center">🛠 My 4 daily drivers</p> -->
 
 <div align="center">
   <a href="https://mscholz.dev"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Langage+de+%3C3&size=square&rounded=24" alt="Golang, my favorite language"/></a>
